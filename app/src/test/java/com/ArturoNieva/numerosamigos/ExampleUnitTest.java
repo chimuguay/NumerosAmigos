@@ -1,4 +1,4 @@
-package com.omarpelcastre.numerosamigos;
+package com.ArturoNieva.numerosamigos;
 
 import org.junit.Test;
 
